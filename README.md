@@ -1,7 +1,8 @@
-# Akhil Kumar Boddapati - Personal Portfolio Website
+Akhil Kumar Boddapati — Portfolio Website
 
-A professional, minimalistic personal portfolio website built to showcase my skills, experiences, projects, and connect with recruiters and collaborators.
+This repository contains the source code for my personal portfolio website hosted at:
 
+🔗 https://akhil-boddapati-portfolio.vercel.app/
 ---
 
 ## Features
