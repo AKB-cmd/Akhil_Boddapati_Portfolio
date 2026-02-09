@@ -1,8 +1,6 @@
 Akhil Kumar Boddapati — Portfolio Website
 
-This repository contains the source code for my personal portfolio website hosted at:
-
-🔗 https://akhil-boddapati-portfolio.vercel.app/
+This repository contains the source code for my personal portfolio website
 ---
 
 ## Features
